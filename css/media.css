@@ -1,0 +1,349 @@
+@media (max-width: 639px) { 
+    .nav .links{
+        display: none;
+    }
+    .nav .list {
+        display: inline-block;
+    }
+    .header .image{
+        width: 100%;
+    }
+    .header .text{
+        width: 100%;
+        text-align: center;
+    }
+    .header .text h2{
+        padding: 0 80px;
+    }
+    .header .text .bt{
+        border-radius: 40px;
+    }
+    .chefs .item{
+        width: 100%;
+    }
+    .gallery .picture .column{
+        display: block;
+    }
+    .gallery .picture{
+        display: block;
+    }
+    .contact .add{
+        width: 100%;
+    }
+    .contact .form .inp{
+        width: 100%;
+    }
+    .contact .form input{
+        width: 100%;
+    }
+    .contact .form input.special{
+        width: 100%;
+    }
+    .contact .form textarea{
+        width: 100%;
+    }
+    .footer .item{
+        width: 100%;
+    }
+    .footer .item-special{
+        width: 100%;
+    }
+    .footer .item-special .form input{
+        width: 100%;
+    }
+    .footer .item-special .form button{
+        width: 100%;
+    }
+}
+/* sm */
+@media (min-width: 640px) { 
+    .nav .links{
+        display: none;
+    }
+    .nav .list {
+        display: inline-block;
+    }
+    .header .image{
+        width: 100%;
+    }
+    .header .text{
+        width: 100%;
+        text-align: center;
+    }
+    .header .text h2{
+        padding: 0 80px;
+    }
+    .header .text .bt{
+        border-radius: 40px;
+    }
+    .chefs .item{
+        width: 100%;
+    }
+    .gallery .picture .column{
+        display: block;
+    }
+    .gallery .picture{
+        display: block;
+    }
+    .contact .add{
+        width: 100%;
+    }
+    .contact .form .inp{
+        width: 100%;
+    }
+    .contact .form input{
+        width: 100%;
+    }
+    .contact .form input.special{
+        width: 100%;
+    }
+    .contact .form textarea{
+        width: 100%;
+    }
+    .footer .item{
+        width: 100%;
+    }
+    .footer .item-special{
+        width: 100%;
+    }
+    .footer .item-special .form input{
+        width: 100%;
+    }
+    .footer .item-special .form button{
+        width: 100%;
+    }
+}
+
+
+/* md */
+@media  (min-width: 768px)
+{
+    .nav .links{
+        display: none;
+    }
+    .nav .list {
+        display: inline-block;
+    }
+    .header .image{
+        width: 100%;
+    }
+    .header .text{
+        width: 100%;
+        text-align: center;
+    }
+    .header .text h2{
+        padding: 0 80px;
+    }
+    .header .text .bt{
+        border-radius: 40px;
+    }
+    .chefs .item{
+        width: 50%;
+    }
+    .gallery .picture .column{
+        display: block;
+    }
+    .contact .add{
+        width: 100%;
+    }
+    .contact .form .inp{
+        width: 100%;
+    }
+    .contact .form input{
+        width: 100%;
+    }
+    .contact .form input.special{
+        width: 100%;
+    }
+    .contact .form textarea{
+        width: 100%;
+    }
+    .footer .item{
+        width: 100%;
+    }
+    .footer .item-special{
+        width: 100%;
+    }
+    .footer .item-special .form input{
+        width: 100%;
+    }
+    .footer .item-special .form button{
+        width: 100%;
+    }
+}
+/* lg */
+@media  (min-width: 1024px) 
+{
+    .nav .links{
+        display: none;
+    }
+    .nav .list {
+        display: inline-block;
+    }
+    .header .image{
+        width: 100%;
+    }
+    .header .text{
+        width: 100%;
+        text-align: center;
+    }
+    .header .text h2{
+        padding: 0 80px;
+    }
+    .header .text .bt{
+        border-radius: 40px;
+    }
+    .chefs .item{
+        width: 33.33%;
+    }
+    .gallery .picture .column{
+        display: flex;
+    }
+    .gallery .picture{
+        display: flex;
+    }
+    .contact .add{
+        width: 48%;
+    }
+    .contact .form .inp{
+        width: 49%;
+    }
+    .contact .form input{
+        width: 100%;
+    }
+    .contact .form input.special{
+        width: 100%;
+    }
+    .contact .form textarea{
+        width: 100%;
+    }
+    .footer .item{
+        width: 25%;
+    }
+    .footer .item-special{
+        width: 50%;
+    }
+    .footer .item-special .form input{
+        width: 70%;
+    }
+    .footer .item-special .form button{
+        width: 29%;
+    }
+}
+/* xl */
+@media  (min-width: 1280px) 
+{
+    .nav .links{
+        display: inline-block;
+    }
+    .nav .list {
+        display: none;
+    }
+    .header .image{
+        width: 40%;
+    }
+    .header .text{
+        width: 40%;
+        text-align: left;
+    }
+    .header .text h2{
+        padding: 0 ;
+    }
+    .header .text .bt{
+        border-radius: 0 40px 40px 40px;
+    }
+    .chefs .item{
+        width: 33.33%;
+    }
+    .gallery .picture .column{
+        display: flex;
+    }
+    .gallery .picture{
+        display: flex;
+    }
+    .contact .add{
+        width: 48%;
+    }
+    .contact .form .inp{
+        width: 49%;
+    }
+    .contact .form input{
+        width: 100%;
+    }
+    .contact .form input.special{
+        width: 100%;
+    }
+    .contact .form textarea{
+        width: 100%;
+    }
+    .footer .item{
+        width: 25%;
+    }
+    .footer .item-special{
+        width: 50%;
+    }
+    .footer .item-special .form input{
+        width: 70%;
+    }
+    .footer .item-special .form button{
+        width: 29%;
+    }
+}
+@media  (min-width: 1536px) 
+{
+    .nav .links{
+        display: inline-block;
+    }
+    .nav .list {
+        display: none;
+    }
+    .header .image{
+        width: 40%;
+    }
+    .header .text{
+        width: 40%;
+        text-align: left;
+    }
+    .header .text h2{
+        padding: 0;
+    }
+    .header .text .bt{
+        border-radius: 0 40px 40px 40px;
+    }
+    .chefs .item{
+        width: 33.33%;
+    }
+    .gallery .picture .column{
+        display: flex;
+    }
+    .gallery .picture{
+        display: flex;
+    }
+    .contact .add{
+        width: 48%;
+    }
+    .contact .form .inp{
+        width: 49%;
+    }
+    .contact .form input{
+        width: 100%;
+    }
+    .contact .form input.special{
+        width: 100%;
+    }
+    .contact .form textarea{
+        width: 100%;
+    }
+    .footer .item{
+        width: 25%;
+    }
+    .footer .item-special{
+        width: 50%;
+    }
+    .footer .item-special .form input{
+        width: 70%;
+    }
+    .footer .item-special .form button{
+        width: 29%;
+    }
+}
